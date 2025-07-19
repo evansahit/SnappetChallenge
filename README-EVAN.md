@@ -1,7 +1,7 @@
 # Snappet Challenge by Evan Sahit
 
 This is project is my contribution for the Snappet Challenge where I built a dashboard to visualize the given dataset of exercises completed by students.
-I've also included my notes for this project outlining my thought process, in case anyone is interested.
+I've also included my notes for this project outlining my thought process (.pdf file at root of the project), in case anyone is interested.
 
 ## Steps to run get the project running locally
 
