@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+    --container-padding-mobile: 0.5rem;
+    --container-padding-tablet: 1rem;
+    --container-padding-laptop: 2rem;
+    --container-border-radius: 5px;
+    --header-border-radius: 20px;
+    --header-padding: 0.75rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--color-primary);
+}
+
+@theme {
+    --color-main-bg: #f9f9f9;
+    --color-chart-bg: #fffcff;
+    --color-primary: #00a5cf;
+    --color-header-text: #354f52;
+    --color-danger-bg: #881600;
+    --color-text-color: #1e2019;
+}
+
+* {
+    box-sizing: border-box;
+}
