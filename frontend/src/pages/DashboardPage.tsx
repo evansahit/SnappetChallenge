@@ -40,7 +40,6 @@ export default function DashboardPage() {
             <div className="flex flex-col gap-[1rem]">
                 <div>
                     <H2>Klassikale voortgang</H2>
-
                     <ParagraphText>
                         Hier is voortgang gemeten door verschillende
                         psychometrische modellen die rekening houden met de

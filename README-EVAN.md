@@ -24,7 +24,7 @@ The backend is a FastAPI (Python) project, so an installation of Python is requi
     - On MacOS/ Linux: `$ source venv/bin/activate`
     - On Windows: `$ venv\Scripts\activate.bat`
     - If the virtual environment has been properly activated, you will see `(venv)` inside of your terminal at the start of the line, e.g. `$ (venv) evan@Evan-PC:~/dev/snappet/snappet-challenge/SnappetChallenge/backend$`
-    - You can also double which which Python interpreter is being used by running `$ which python` on MacOS and Linux or `$ where python` on Windows. This should output the path to the Python interpreter used to create the virtual environment, e.g. `/home/evan/dev/snappet/snappet-challenge/SnappetChallenge/backend/venv/bin/python`.
+    - You can also double check which Python interpreter is being used by running `$ which python` on MacOS and Linux or `$ where python` on Windows. This should output the path to the Python interpreter used to create the virtual environment, e.g. `/home/evan/dev/snappet/snappet-challenge/SnappetChallenge/backend/venv/bin/python`.
 
 4. Install the dependencies for FastAPI and Pandas into the virtual environment:
 
@@ -40,9 +40,9 @@ The frontend is a React project scaffolded with Vite and using TypeScript and Ta
 
 0. Follow the necessary steps to install Node.js
 
-1. Navigate into the `/frontend/snappet-challenge` folder. From the root of the project:
+1. Navigate into the `/frontend` folder. From the root of the project:
 
-    - `$ cd frontend/snappet-challenge`
+    - `$ cd frontend/`
 
 2. Install the dependencies for React and Rechart:
 
